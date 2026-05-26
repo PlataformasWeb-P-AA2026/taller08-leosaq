@@ -1,0 +1,9 @@
+services:
+  mariadb:
+    image: mariadb:latest
+    container_name: orm_paises_mariadb
+    environment:
+      MARIADB_ROOT_PASSWORD: root
+      MARIADB_DATABASE: paises
+    ports:
+      - "3307:3306"
