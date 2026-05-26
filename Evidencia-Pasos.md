@@ -126,6 +126,8 @@ streamlit run app.py
 
 
 ## Evidencia de SQLite con Fronted Streamlit 
+<img width="1600" height="955" alt="image" src="https://github.com/user-attachments/assets/4e42ec3a-1eba-4a85-855a-cb69b45c709b" />
 
 
 ## Evidencia de MariaDB con Fronted Streamlit 
+<img width="1600" height="954" alt="image" src="https://github.com/user-attachments/assets/852d9cbb-59b7-4360-990c-cf0acfb77599" />
